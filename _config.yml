@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Semere K. Bitew"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Semere K. Bitew"
+description              : &description "Ph.D candidate at Ghent University"
+url                      : https://semerekiros.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "semerekiros/semerekiros.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &semere
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Semere K. Bitew"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "My name is Semere. I am a PhD student at the Ghent university in the T2k group"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=hreGYC4AAAAJ&view_op=list_works&gmla=AJsN-F4eswFWAjedS3Lt-X-pL9_m1yLlSLx6wjhxoToOrNonyqpziCxSUAFBdpy7cgxoFWYpVmInewQ9-l72T4J_VX9HITnG4A"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
