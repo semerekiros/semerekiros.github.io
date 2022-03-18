@@ -80,12 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Semere K. Bitew 
-                      ሰመረ ኪሮስ "
+  name             : "Semere K. Bitew ( ሰመረ ኪሮስ) "
   avatar           : "semere.jpeg"
   bio              : "Ph.D candidate, Computer Science Engineering"
   location         : "Belgium"
-  employer         : "https://www.ugent.be/en"
+  employer         : "Ghent University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hreGYC4AAAAJ&view_op=list_works&gmla=AJsN-F4eswFWAjedS3Lt-X-pL9_m1yLlSLx6wjhxoToOrNonyqpziCxSUAFBdpy7cgxoFWYpVmInewQ9-l72T4J_VX9HITnG4A"
   email            :
