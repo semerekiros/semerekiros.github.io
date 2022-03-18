@@ -12,7 +12,7 @@ About me
 ======
 I am a Ph.D. student at [Internet Technology and Data Science Lab (IDLab)](https://www.ugent.be/ea/idlab/en) at the [Ghent University](https://www.ugent.be/en). I am part of the [Text-to-Knowledge (T2K) Group](https://ugentt2k.github.io/). My supervisors are Prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html) and Prof. [Thomas Demeester](https://tdmeeste.github.io/). 
 
-My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. My main research interest lies in text generation. I am  currently working on question generation in the education domain. 
+My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. My main research interest lies in controlled text generation. I am  currently working on AI in education. 
 
 Research interests
 ======
