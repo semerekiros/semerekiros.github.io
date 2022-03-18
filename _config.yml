@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Semere K. Bitew"
+  name             : "Semere K. Bitew 
+                      ሰመረ ኪሮስ "
   avatar           : "semere.jpeg"
-  bio              : "My name is Semere. I am a PhD student at the Ghent university in the T2k group"
-  location         : "Ghent"
-  employer         :
+  bio              : "Ph.D candidate, Computer Science Engineering"
+  location         : "Belgium"
+  employer         : "https://www.ugent.be/en"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hreGYC4AAAAJ&view_op=list_works&gmla=AJsN-F4eswFWAjedS3Lt-X-pL9_m1yLlSLx6wjhxoToOrNonyqpziCxSUAFBdpy7cgxoFWYpVmInewQ9-l72T4J_VX9HITnG4A"
   email            :
