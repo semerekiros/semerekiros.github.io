@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &semere
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Semere K. Bitew"
   avatar           : "semere.jpeg"
   bio              : "My name is Semere. I am a PhD student at the Ghent university in the T2k group"
-  location         : "Location"
+  location         : "Ghent"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=hreGYC4AAAAJ&view_op=list_works&gmla=AJsN-F4eswFWAjedS3Lt-X-pL9_m1yLlSLx6wjhxoToOrNonyqpziCxSUAFBdpy7cgxoFWYpVmInewQ9-l72T4J_VX9HITnG4A"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "semerekiros"
   google_plus      :
   keybase          :
   instagram        :
