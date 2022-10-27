@@ -25,7 +25,11 @@ Research interests
 Publications
 ======
 
-<b>Semere Kiros Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester. 2021. <b>[Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6)</b> In Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference, pages 57–62, Punta Cana, Dominican Republic. Association for Computational Linguistics.
+<b>Semere Kiros Bitew</b>, Amir hadifar, Lucas Sterckx, Johannes Deleu, Chris Develder, and Thomas Demeester. 2021. <b>[Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://doi.org/10.48550/arXiv.2210.13964)</b> <em> Preprint </em>
+
+Amir Hadifar, <b>Semere Kiros Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester. 2022. <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain]([https://aclanthology.org/2021.crac-1.6](https://doi.org/10.48550/arXiv.2210.06104))</b> <em> Preprint </em>
+
+<b>Semere Kiros Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester. 2021. <b>[Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6)</b> <em>In Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference</em>, pages 57–62, Punta Cana, Dominican Republic. Association for Computational Linguistics.
 
 <b>S.K. Bitew</b>, G. Bekoulis, J. Deleu, L. Sterckx, <b>K. Zaporojets</b>, T. Demeester and C. Develder, <b>[Predicting suicide risk from online postings in Reddit: The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019)</b>, in Proc. 6th Ann. Workshop on Comput. Ling. Clin. Psychol. (CLPsych 2019) at NAACL-HLT 2019, Minneapolis, MN, USA, 6 Jun. 2019, pp. 158-161.
 
