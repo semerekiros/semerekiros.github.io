@@ -27,7 +27,7 @@ Publications
 
 <b>Semere Kiros Bitew</b>, Amir hadifar, Lucas Sterckx, Johannes Deleu, Chris Develder, and Thomas Demeester. 2021. <b>[Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://doi.org/10.48550/arXiv.2210.13964)</b> <em> Preprint </em>
 
-Amir Hadifar, <b>Semere Kiros Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester. 2022. <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain]([https://aclanthology.org/2021.crac-1.6](https://doi.org/10.48550/arXiv.2210.06104))</b> <em> Preprint </em>
+Amir Hadifar, <b>Semere Kiros Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester. 2022. <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://doi.org/10.48550/arXiv.2210.06104)</b> <em> Preprint </em>
 
 <b>Semere Kiros Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester. 2021. <b>[Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6)</b> <em>In Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference</em>, pages 57–62, Punta Cana, Dominican Republic. Association for Computational Linguistics.
 
