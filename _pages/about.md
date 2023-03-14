@@ -29,9 +29,9 @@ Publications
 
 Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://doi.org/10.1109/ACCESS.2023.3248790)</b> in <em> IEEE Access, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.06104) <b>]</b>.
 
-<b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6)</b> <em>In Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference</em>, pages 57–62, Punta Cana, Dominican Republic. Association for Computational Linguistics. 2021.
+<b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6)</b> in <em> Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference</em>, pages 57–62, Punta Cana, Dominican Republic. Association for Computational Linguistics. 2021.
 
-<b>S.K. Bitew</b>, G. Bekoulis, J. Deleu, L. Sterckx, <b>K. Zaporojets</b>, T. Demeester and C. Develder, <b>[Predicting suicide risk from online postings in Reddit: The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019)</b>, in Proc. 6th Ann. Workshop on Comput. Ling. Clin. Psychol. (CLPsych 2019) at NAACL-HLT 2019, Minneapolis, MN, USA, 6 Jun. 2019, pp. 158-161.
+<b>S.K. Bitew</b>, G. Bekoulis, J. Deleu, L. Sterckx, K. Zaporojets, T. Demeester and C. Develder, <b>[Predicting suicide risk from online postings in Reddit: The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019)</b>, in <em>Proc. 6th Ann. Workshop on Comput. Ling. Clin. Psychol. (CLPsych 2019) </em> at NAACL-HLT 2019, Minneapolis, MN, USA, 6 Jun. 2019, pp. 158-161.
 
 
 Education
