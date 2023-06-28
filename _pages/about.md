@@ -17,6 +17,7 @@ My research spans a variety of topics related to the use of Machine Learning in 
 Research interests
 ======
  
+- NLP in Educational settings
 - Text generation
 - Transfer learning and low-resource languages
 - Psycholinguistics
