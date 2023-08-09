@@ -25,6 +25,8 @@ Research interests
 
 Publications
 ======
+<b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[Distractor generation for multiple-choice questions with predictive prompting and large language models]([https://arxiv.org/pdf/2306.01584.pdf](https://arxiv.org/abs/2307.16338))</b> in <em> Accepted at the 1st International Tutorial and Workshop on Responsible Knowledge Discovery in Education </em>, pages xxx–xxx, Turin, Italy. ECML-PKDD. 2023
+
 <b>S.K. Bitew</b>, Johannes Deleu, A. Seza Dogruöz, Chris Develder, and Thomas Demeester.  <b>[Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning](https://arxiv.org/pdf/2306.01584.pdf)</b> in <em> Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)</em>, pages xxx–xxx, Toronto, Canada. Association for Computational Linguistics. 2023
 
 Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Veronique Hoste, Chris Develder, and Thomas Demeester.  <b>[Diverse Content Selection for Educational Question Generation](https://aclanthology.org/2023.eacl-srw.13)</b> in <em> Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop</em>, pages 123–133, Dubrovnik, Croatia. Association for Computational Linguistics. 2023  
@@ -40,7 +42,7 @@ Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Deme
 
 Education
 ======
-- 2019 - Now, Ph.D candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
+- 2019 - Now, Ph.D. candidate in Computer Science Engineering, Ghent University, Ghent, Belgium.
 - 2016 - 2018, MSc in Data Science and Smart Services, Univeristy of Twente, The Netherlands. 
 -  Master's Thesis: [Logical structure extraction of electronic documents using contextual information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
 - 2009- 2014, B.Sc in computer science & Engineering 
