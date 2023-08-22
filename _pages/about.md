@@ -18,7 +18,7 @@ Research interests
 ======
  
 - NLP in Educational settings
-- Text generation
+- Controlled Text generation
 - Transfer learning and low-resource languages
 - Psycholinguistics
 
