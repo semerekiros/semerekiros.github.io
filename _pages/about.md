@@ -31,6 +31,8 @@ Publications
 
 Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Veronique Hoste, Chris Develder, and Thomas Demeester.  <b>[Diverse Content Selection for Educational Question Generation](https://aclanthology.org/2023.eacl-srw.13)</b> in <em> Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop</em>, pages 123–133, Dubrovnik, Croatia. Association for Computational Linguistics. 2023  <b>[</b> [code](https://github.com/hadifar/content_selection) <b>]</b>
 
+<b>S.K. Bitew</b>, Vincent Schelstraeteb, Klim Zaporojetsa, Kimberly Van Nieuwenhovec, Reitske Meganckc, Chris Develder. <b>[Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients’ Speech] </b> in <em> UNDER REVIEW, </em> 2023 
+
 <b>S.K. Bitew</b>, Amir hadifar, Lucas Sterckx, Johannes Deleu, Veronique Hoste, Chris Develder, and Thomas Demeester. <b>[Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://doi.org/10.1109/TLT.2022.3226523)</b> in <em> IEEE Transactions for Learning Technologies, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.13964) <b>|</b> [Dataset](https://github.com/semerekiros/dist-retrieval) <b>]</b>.
 
 Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://doi.org/10.1109/ACCESS.2023.3248790)</b> in <em> IEEE Access, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.06104) <b>|</b> [code](https://github.com/hadifar/question-generation)<b>]</b>.
