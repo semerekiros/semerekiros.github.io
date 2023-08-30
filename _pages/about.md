@@ -33,7 +33,7 @@ Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Veronique Hoste, Chris Develder
 
 <b>S.K. Bitew</b>, Amir hadifar, Lucas Sterckx, Johannes Deleu, Veronique Hoste, Chris Develder, and Thomas Demeester. <b>[Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://doi.org/10.1109/TLT.2022.3226523)</b> in <em> IEEE Transactions for Learning Technologies, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.13964) <b>|</b> [Dataset](https://github.com/semerekiros/dist-retrieval) <b>]</b>.
 
-Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://doi.org/10.1109/ACCESS.2023.3248790)</b> in <em> IEEE Access, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.06104) <b>]</b>.
+Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[EduQG: A Multi-format Multiple Choice Dataset for the Educational Domain](https://doi.org/10.1109/ACCESS.2023.3248790)</b> in <em> IEEE Access, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.06104) <b>|</b> [code](https://github.com/hadifar/question-generation)<b>]</b>.
 
 <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[Lazy Low-Resource Coreference Resolution: a Study on Leveraging Black-Box Translation Tools](https://aclanthology.org/2021.crac-1.6)</b> in <em> Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference</em>, pages 57–62, Punta Cana, Dominican Republic. Association for Computational Linguistics. 2021.
 
