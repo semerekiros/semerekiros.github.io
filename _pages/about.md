@@ -25,6 +25,8 @@ Research interests
 
 Publications
 ======
+Karel D'Oosterlinck, <b>S.K. Bitew</b>,  Brandon Papineau, Christopher Potts, Thomas Demeester, Chris Develder.  <b>[CAW-coref: Conjunction-Aware Word-level Coreference Resolution](https://arxiv.org/abs/2310.06165)</b> in <em> Accepted at the 6th Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023) </em>, pages xxx–xxx, Singapore. EMNLP. 2023 <b>[</b> [arXiv](https://arxiv.org/abs/2310.06165) <b>|</b> [code](https://github.com/KarelDO/wl-coref) <b>]</b>.
+
 <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[Distractor generation for multiple-choice questions with predictive prompting and large language models](https://arxiv.org/abs/2307.16338)</b> in <em> Accepted at the 1st International Tutorial and Workshop on Responsible Knowledge Discovery in Education </em>, pages xxx–xxx, Turin, Italy. ECML-PKDD. 2023 <b>[</b> [arXiv](https://arxiv.org/abs/2307.16338) <b>|</b> [code](https://github.com/semerekiros/distractGPT/) <b>]</b>.
 
 <b>S.K. Bitew</b>, Johannes Deleu, A. Seza Dogruöz, Chris Develder, and Thomas Demeester.  <b>[Learning from Partially Annotated Data: Example-aware Creation of Gap-filling Exercises for Language Learning](https://aclanthology.org/2023.bea-1.51/)</b> in <em> Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)</em>, pages 598–609, Toronto, Canada. Association for Computational Linguistics. 2023 <b>[</b> [arXiv](https://arxiv.org/pdf/2306.01584.pdf) <b>|</b> [code](https://github.com/semerekiros/GF2) <b>]</b>.
