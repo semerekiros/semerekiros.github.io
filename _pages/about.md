@@ -10,21 +10,23 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D. student at [Internet Technology and Data Science Lab (IDLab)](https://www.ugent.be/ea/idlab/en) at the [Ghent University](https://www.ugent.be/en). I am part of the [Text-to-Knowledge (T2K) Group](https://ugentt2k.github.io/). My supervisors are Prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html) and Prof. [Thomas Demeester](https://tdmeeste.github.io/). 
+I recieved my Ph.D. from [Internet Technology and Data Science Lab (IDLab)](https://www.ugent.be/ea/idlab/en) at the [Ghent University](https://www.ugent.be/en). I was part of the [Text-to-Knowledge (T2K) Group](https://ugentt2k.github.io/). My supervisors were Prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html) and Prof. [Thomas Demeester](https://tdmeeste.github.io/). 
 
-My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. My main research interest lies in controlled text generation. I am  currently working on AI in education. 
+My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. My main research interest lies in leveraging large language models (LLMs) in the domain of Biomedical. In the past I worked on adapting LLMs for application for AI in education. 
 
 Research interests
 ======
  
+- BioMedical NLP
 - NLP in Educational settings
 - Controlled Text generation
 - Transfer learning and low-resource languages
-- Psycholinguistics
 
 
 Publications
 ======
+Maarten De Raedt, <b>S.K. Bitew</b>, Fréderic Godin, Thomas Demeester, Chris Develder.  <b>[Zero-Shot Cross-Lingual Sentiment Classification under Distribution Shift:an Exploratory Study](https://aclanthology.org/2023.mrl-1.5.pdf)</b> in <em> Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL) </em>, pages 50–66, Singapore. EMNLP. 2023 <b>[</b> [arXiv](https://aclanthology.org/2023.mrl-1.5.pdf) <b>|</b> [code](-) <b>]</b>.
+
 Karel D'Oosterlinck, <b>S.K. Bitew</b>,  Brandon Papineau, Christopher Potts, Thomas Demeester, Chris Develder.  <b>[CAW-coref: Conjunction-Aware Word-level Coreference Resolution](https://arxiv.org/abs/2310.06165)</b> in <em> Accepted at the 6th Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023) </em>, pages xxx–xxx, Singapore. EMNLP. 2023 <b>[</b> [arXiv](https://arxiv.org/abs/2310.06165) <b>|</b> [code](https://github.com/KarelDO/wl-coref) <b>]</b>.
 
 <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Demeester.  <b>[Distractor generation for multiple-choice questions with predictive prompting and large language models](https://arxiv.org/abs/2307.16338)</b> in <em> Accepted at the 1st International Tutorial and Workshop on Responsible Knowledge Discovery in Education </em>, pages xxx–xxx, Turin, Italy. ECML-PKDD. 2023 <b>[</b> [arXiv](https://arxiv.org/abs/2307.16338) <b>|</b> [code](https://github.com/semerekiros/distractGPT/) <b>]</b>.
