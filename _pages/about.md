@@ -35,7 +35,7 @@ Karel D'Oosterlinck, <b>S.K. Bitew</b>,  Brandon Papineau, Christopher Potts, Th
 
 Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Veronique Hoste, Chris Develder, and Thomas Demeester.  <b>[Diverse Content Selection for Educational Question Generation](https://aclanthology.org/2023.eacl-srw.13)</b> in <em> Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Student Research Workshop</em>, pages 123–133, Dubrovnik, Croatia. Association for Computational Linguistics. 2023  <b>[</b> [code](https://github.com/hadifar/content_selection) <b>]</b>
 
-<b>S.K. Bitew</b>, Vincent Schelstraete, Klim Zaporojets, Kimberly Van Nieuwenhove, Reitske Meganck, Chris Develder. <b>Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients’ Speech </b> <em> UNDER REVIEW, </em> 2023 
+<b>S.K. Bitew</b>, Vincent Schelstraete, Klim Zaporojets, Kimberly Van Nieuwenhove, Reitske Meganck, Chris Develder. <b>[Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients’ Speech](https://clinjournal.org/clinj/article/view/169/183) </b> in <em> COMPUTATIONAL LINGUISTICS IN THE NETHERLANDS JOURNAL</em> 2024. 
 
 <b>S.K. Bitew</b>, Amir hadifar, Lucas Sterckx, Johannes Deleu, Veronique Hoste, Chris Develder, and Thomas Demeester. <b>[Learning to Reuse Distractors to support Multiple Choice Question Generation in Education](https://doi.org/10.1109/TLT.2022.3226523)</b> in <em> IEEE Transactions for Learning Technologies, </em> 2022 <b>[</b> [arXiv](https://doi.org/10.48550/arXiv.2210.13964) <b>|</b> [Dataset](https://github.com/semerekiros/dist-retrieval) <b>]</b>.
 
