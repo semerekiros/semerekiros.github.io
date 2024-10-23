@@ -45,10 +45,20 @@ Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Deme
 
 <b>S.K. Bitew</b>, G. Bekoulis, J. Deleu, L. Sterckx, K. Zaporojets, T. Demeester and C. Develder, <b>[Predicting suicide risk from online postings in Reddit: The UGent-IDLab submission to the CLPysch 2019 Shared Task A](https://aclanthology.org/W19-3019)</b>, in <em>Proc. 6th Ann. Workshop on Comput. Ling. Clin. Psychol. (CLPsych 2019) </em> at NAACL-HLT 2019, Minneapolis, MN, USA, 6 Jun. 2019, pp. 158-161.
 
+Education:
+- **2019 - 2024, Ph.D. in Computer Science Engineering**, Ghent University, Ghent, Belgium
+  - **PhD Thesis**: [Download my PhD Thesis](Semere_Bitew_PhD_Thesis.pdf)
+  - **Defense Slides**: [View Defense Slides](PhD_Semere_Bitew_Final_Presentation.pdf)
+- **2016 - 2018, MSc in Data Science and Smart Services**, University of Twente, The Netherlands
+  - **Master's Thesis**: [Logical Structure Extraction of Electronic Documents Using Contextual Information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
+- **2009 - 2014, B.Sc in Computer Science & Engineering**, Mekelle Institute of Technology - Mekelle University, Ethiopia
+
 
 Education
 ======
 - 2019 - 2024, Ph.D. in Computer Science Engineering, Ghent University, Ghent, Belgium.
+-  PhD Thesis: [Download my PhD Thesis](Semere_Bitew_PhD_slides.pdf)
+-  PhD defense slides: [Slides](PhD_semere_Bitew_final.pdf)
 - 2016 - 2018, MSc in Data Science and Smart Services, Univeristy of Twente, The Netherlands. 
 -  Master's Thesis: [Logical structure extraction of electronic documents using contextual information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
 - 2009- 2014, B.Sc in computer science & Engineering, Mekelle Institute of Technology - Mekelle University, Ethiopia 
