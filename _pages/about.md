@@ -49,8 +49,8 @@ Amir Hadifar, <b>S.K. Bitew</b>, Johannes Deleu, Chris Develder, and Thomas Deme
 Education
 ======
  - **2019 - 2024, Ph.D. in Computer Science Engineering**, Ghent University, Ghent, Belgium
-  - **PhD Thesis**: [Download my PhD Thesis](_page/Semere_Bitew_PhD_Thesis.pdf)
-  - **Defense Slides**: [View Defense Slides](_pages/PhD_Semere_Bitew_Final_Presentation.pdf)
+  - **PhD Thesis**: [Download my PhD Thesis](files/Semere_Bitew_PhD_Thesis.pdf)
+  - **Defense Slides**: [View Defense Slides](files/PhD_Semere_Bitew_Final_Presentation.pdf)
 - **2016 - 2018, MSc in Data Science and Smart Services**, University of Twente, The Netherlands
   - **Master's Thesis**: [Logical Structure Extraction of Electronic Documents Using Contextual Information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
 - **2009 - 2014, B.Sc in Computer Science & Engineering**, Mekelle Institute of Technology - Mekelle University, Ethiopia
