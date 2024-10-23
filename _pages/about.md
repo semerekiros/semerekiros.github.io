@@ -50,7 +50,7 @@ Education
 ======
 
  - **2019 - 2024, Ph.D. in Computer Science Engineering**, Ghent University, Ghent, Belgium
-  - **PhD Thesis**: [Download my PhD Thesis](files/paper1.pdf)
+  - **PhD Thesis**: [Download my PhD Thesis](paper1.pdf)
   - **Defense Slides**: [View Defense Slides](files/PhD_Semere_Bitew_Final_Presentation.pdf)
 - **2016 - 2018, MSc in Data Science and Smart Services**, University of Twente, The Netherlands
   - **Master's Thesis**: [Logical Structure Extraction of Electronic Documents Using Contextual Information](http://essay.utwente.nl/76427/1/BITEW_MA_EEMCS.pdf)
