@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I recieved my Ph.D. from [Internet Technology and Data Science Lab (IDLab)](https://www.ugent.be/ea/idlab/en) at the [Ghent University](https://www.ugent.be/en). I was part of the [Text-to-Knowledge (T2K) Group](https://ugentt2k.github.io/). My supervisors were Prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html) and Prof. [Thomas Demeester](https://tdmeeste.github.io/). 
+I recieved my Ph.D. from [Internet Technology and Data Science Lab (IDLab)](https://www.ugent.be/ea/idlab/en) at the [Ghent University](https://www.ugent.be/en) -- [imec](https://www.imec-int.com/en). I was part of the [Text-to-Knowledge (T2K) Group](https://ugentt2k.github.io/). My supervisors were Prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html) and Prof. [Thomas Demeester](https://tdmeeste.github.io/). 
 
 My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. My main research interest lies in leveraging large language models (LLMs) in the domain of Biomedical NLP. In the past I worked on adapting LLMs for application for AI in education. 
 
